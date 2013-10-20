@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Nothing New</title><link href="http://jwkvam.github.io/" rel="alternate"></link><link href="http://jwkvam.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://jwkvam.github.io/</id><updated>2013-10-20T00:00:00-07:00</updated><entry><title>Bayesian analysis of MLB payrolls</title><link href="http://jwkvam.github.io/baseball_payrolls.html" rel="alternate"></link><updated>2013-10-20T00:00:00-07:00</updated><author><name>Jacques Kvam</name></author><id>tag:jwkvam.github.io,2013-10-20:baseball_payrolls.html</id><summary type="html">&lt;p&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Can you buy wins in baseball&lt;/p&gt;
+&lt;p&gt;Can you buy wins in baseball?&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;&lt;em&gt;This blog post was written entirely in the IPython Notebook. The full notebook can be downloaded &lt;a href="http://jwkvam.github.io/downloads/notebooks/baseball_payrolls.ipynb"&gt;here&lt;/a&gt;, or viewed statically &lt;a href="http://nbviewer.ipython.org/url/jwkvam.github.io/downloads/notebooks/baseball_payrolls.ipynb"&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/p&gt;</summary></entry></feed>
