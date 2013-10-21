@@ -3676,7 +3676,9 @@ In&amp;nbsp;[448]:
 &lt;/div&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;p&gt;This gives a &lt;span class="math"&gt;\(\theta_2 \approx -0.3\)&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://deadspin.com/2013-payrolls-and-salaries-for-every-mlb-team-462765594"&gt;Deadspin&lt;/a&gt; has listed the 2013 opening day payrolls. Let's compare how this model predicts how well the New York Yankees, with a payroll of $229M should have done to the Houston Astros meager $24M payroll.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;&lt;a href="http://deadspin.com/2013-payrolls-and-salaries-for-every-mlb-team-462765594"&gt;Deadspin&lt;/a&gt; has listed the 2013 opening day payrolls. Let's compare how this model predicts how well the New York Yankees, with a payroll of 229 million should have done to the Houston Astros meager 24 million payroll.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="cell border-box-sizing code_cell vbox"&gt;
 &lt;div class="input hbox"&gt;
